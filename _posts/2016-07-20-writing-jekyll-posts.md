@@ -1,5 +1,12 @@
 ---
-layout: home
+layout: single
+title:  "Draft Post"
+header:
+  teaser: "unsplash-gallery-image-2-th.jpg"
+categories: 
+  - Cohomology
+tags:
+  - Etale
 ---
 
 Abstract: In this post we introduce a method to show the Weil conjecture.
