@@ -1,7 +1,7 @@
 ---
 layout: single
 categories: 
-  - Cohomology
+  - homology
 tags:
   - Etale
 ---
