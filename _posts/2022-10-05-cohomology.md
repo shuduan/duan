@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: home
 toc: true
 toc_label: "Cohomology"
 toc_icon: "heart"
