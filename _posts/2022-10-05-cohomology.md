@@ -1,8 +1,7 @@
 ---
 layout: single
 toc: true
-toc_label: "Cohomology"
-toc_icon: "heart"
+toc_sticky: true
 author: Shuaishuai Duan
 categories: 
   - homology
