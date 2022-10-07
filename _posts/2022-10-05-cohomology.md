@@ -1,7 +1,6 @@
 ---
 layout: single
 author: Shuaishuai Duan
-comments: true
 categories: 
   - homology
 tags:
