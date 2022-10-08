@@ -9,4 +9,6 @@ main:
   - title: "Categories"
     url: /categories/
   - title: "Sitemap"
-    url: /sitemap/
+    children:
+      -title: "Sell"
+       url: /sitemap/
