@@ -2,7 +2,6 @@
 layout: home
 ---
 
-**About me**
+# About
 <br>
-
-i AM 
+This website is used to post studyling life.
