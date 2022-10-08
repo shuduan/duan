@@ -14,7 +14,6 @@ Abstract: In this post we introduce a method to show the Weil conjecture. asdf w
 # Introduction
 <br>
   We have known that Weil conjecture is related some kind cohomology. We are going to develop it.
-  ## SUBSECTIOBON
 
 # Section 1
 <br>
