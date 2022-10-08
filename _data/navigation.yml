@@ -10,9 +10,9 @@ main:
         url: /year-archive/
       - title: "Posts by Category"
         url: /category-archive/
-      - title: "Posts by Author"
-        url: /author-archive/
+  #    - title: "Posts by Author"
+  #      url: /author-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Sitemap"
+    url: /sitemap/
