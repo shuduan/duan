@@ -5,13 +5,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Posts"
-      chindren:
-      - title: "Posts by Year
-        url: /_pages/year-archive/
-      - title: "Posts by Category"
-        url: /_pages/category-archive/
-  #    - title: "Posts by Author"
-  #      url: /author-archive/
+    url: /_pages/year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   - title: "Sitemap"
