@@ -4,7 +4,7 @@ toc: true
 toc_sticky: true
 author: Shuaishuai Duan
 categories: 
-  - homology
+  - Homology
 tags:
   - Etale
 ---
