@@ -1,7 +1,7 @@
 ---
 layout: home
+title: About
 ---
 
-# About
 <br>
 This website is used to post studyling life.
