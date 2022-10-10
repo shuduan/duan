@@ -3,13 +3,13 @@ main:
   - title: "About"
     url: /about/
   - title: "Reaearch"
-    url:
+    url: /files/reaearch/
   - title: "Publication"
-    url:
+    url: /files/publication/
   - title: "CV"
-    url:
+    url: /files/CV/
   - title: "Talks & Notes"
-    url:
+    url: /files/talks and notes/
   - title: "Posts"
     url: /categories/
 
