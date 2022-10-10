@@ -1,6 +1,7 @@
 ---
 layout: single
+title: "Publication"
 classes: wide
-author_profile: trur
+author_profile: true
 ---
 This is publication.
