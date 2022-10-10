@@ -4,7 +4,7 @@ main:
     url: /about/
   - title: "Reaearch"
     url:
-  -title: "Publication"
+  - title: "Publication"
     url:
   - title: "CV"
     url:
