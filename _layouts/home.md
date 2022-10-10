@@ -1,3 +1,4 @@
-
-## Important News
-I am looking for PhD position.
+Important News:
+<br>
+<br>
+I am looking for a PhD position.
