@@ -3,13 +3,13 @@ main:
   - title: "About"
     url: /about/
   - title: "Research"
-    url: /files/research/
+    url: /research/
   - title: "Publication"
-    url: /files/publication/
+    url: /publication/
   - title: "CV"
-    url: /files/CV/
+    url: /CV/
   - title: "Talks & Notes"
-    url: /files/talks and notes/
+    url: /talks and notes/
   - title: "Posts"
     url: /categories/
 
