@@ -1,5 +1,6 @@
 ---
-layout: home
+layout: single
+title: "Research"
 classes: wide
 author_profile: true
 ---
