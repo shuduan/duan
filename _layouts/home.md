@@ -1,3 +1,7 @@
+---
+layout: archive
+---
+
 Important News:
 <br>
 <br>
