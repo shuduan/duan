@@ -4,4 +4,4 @@ title: "Publication"
 classes: wide
 author_profile: true
 ---
-This is publication.
+No publication yet.
