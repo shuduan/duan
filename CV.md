@@ -4,4 +4,4 @@ title: "CV"
 classes: wide
 author_profile: true
 ---
-this is a cv.
+You can find my CV <a href="pdf/CV.pdf">Notes</a>
