@@ -5,4 +5,4 @@ classes: wide
 author_profile: true
 ---
 
-This is a research.
+No research yet.
