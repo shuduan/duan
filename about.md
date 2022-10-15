@@ -6,4 +6,4 @@ title: About
 ---
 
 <br>
-I am currently a second-year master student in Mathematics at Higher School of Economics, Moscow campus. This website is my personal website.
+I am currently a second-year master student in Mathematics at HHSE, Moscow. This website is my personal website.
